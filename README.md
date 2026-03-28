@@ -1,13 +1,13 @@
-# Hey 👋 I'm Taras
+# Hey, I'm Taras👋
 
 🧑‍💻 Junior Python Backend Developer focused on Django-based applications.
 
-🎓 Second-year Software Development student at Munster Technological University (Ireland).
+🎓 Second-year Software Development student at Munster Technological University.
 
 🚀 I build backend systems with a focus on:
 - REST APIs
-- background tasks (Celery)
-- caching (Redis)
+- background tasks
+- caching
 - database design and optimization
 
 ## 🔧 Tech Stack
