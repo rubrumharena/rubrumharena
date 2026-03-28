@@ -1,17 +1,41 @@
-# Hey there 👋
+# Hey 👋 I'm Taras
 
-🧑‍💻 I am beginnig backend developer based in Ireland. 
+🧑‍💻 Junior Python Backend Developer focused on Django-based applications.
 
-🎓 Curently a second year student majoring Software Dvelopment at Munster Technological University.
+🎓 Second-year Software Development student at Munster Technological University (Ireland).
 
-✨ I design and create whatever I can imagine.
+🚀 I build backend systems with a focus on:
+- REST APIs
+- background tasks (Celery)
+- caching (Redis)
+- database design and optimization
 
-⚙️ My own favourite repo is [myanimesite](https://github.com/rubrumharena/myanimesite)
+## 🔧 Tech Stack
 
+**Core:**
+- Python
+- Django
+- PostgreSQL
+- Celery
 
+**Also worked with:**
+- Redis
+- Stripe (payments & subscriptions)
+- OAuth2
+- Elasticsearch
+- HTML / CSS
 
+## 📌 Featured Project
 
-## Tech Stack 📚
-**Core:** Python, Django, PostgeSQL, Celery
+👉 [myanimesite](https://github.com/rubrumharena/myanimesite)
 
-**Indirectly:** Redis, Stripe, OAuth2.0, Elasticsearch, HTML/CSS
+Django-based online cinema platform with:
+- authentication & user system
+- subscriptions and payments
+- background tasks (Celery)
+- caching
+- modular backend architecture
+
+---
+
+Currently focused on improving backend skills and preparing for junior backend roles.
