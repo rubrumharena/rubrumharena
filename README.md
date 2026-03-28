@@ -25,17 +25,4 @@
 - Elasticsearch
 - HTML / CSS
 
-## 📌 Featured Project
-
-👉 [myanimesite](https://github.com/rubrumharena/myanimesite)
-
-Django-based online cinema platform with:
-- authentication & user system
-- subscriptions and payments
-- background tasks (Celery)
-- caching
-- modular backend architecture
-
----
-
 Currently focused on improving backend skills and preparing for junior backend roles.
