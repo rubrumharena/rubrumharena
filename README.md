@@ -10,15 +10,15 @@
 - caching
 - database design and optimization
 
-## 🔧 Tech Stack
+## Tech Stack 🔧
 
-**Core:**
+💪 **Core:**
 - Python
 - Django
 - PostgreSQL
 - Celery
 
-**Also worked with:**
+📖 **Also worked with:**
 - Redis
 - Stripe (payments & subscriptions)
 - OAuth2
