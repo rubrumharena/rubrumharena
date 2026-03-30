@@ -10,7 +10,7 @@
 - caching
 - database design and optimization
 
-## Tech Stack 🔧
+## 📚 Tech Stack
 
 💪 **Core:**
 - Python
