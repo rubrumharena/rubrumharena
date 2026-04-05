@@ -23,6 +23,6 @@
 - Stripe (payments & subscriptions)
 - OAuth2
 - Elasticsearch
-- HTML / CSS
+- Docker
 
 Currently focused on improving backend skills and preparing for junior backend roles.
