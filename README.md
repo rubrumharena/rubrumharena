@@ -1,6 +1,6 @@
 # Hey, I'm Taras👋
 
-🧑‍💻 Junior Python Backend Developer focused on Django-based applications.
+🧑‍💻 Python Backend Developer focused on Django-based applications.
 
 🎓 Second-year Software Development student at Munster Technological University.
 
@@ -11,18 +11,5 @@
 - database design and optimization
 
 ## 📚 Tech Stack
+```Python``` ```Django``` ```PostgreSQL``` ```Celery``` ```Redis``` ```Django REST Framework``` ```Stripe``` ```OAuth2``` ```Elasticsearch``` ```REST``` ```Docker``` ```unittest```
 
-💪 **Core:**
-- Python
-- Django
-- PostgreSQL
-- Celery
-
-📖 **Also worked with:**
-- Redis
-- Stripe (payments & subscriptions)
-- OAuth2
-- Elasticsearch
-- Docker
-
-Currently focused on improving backend skills and preparing for junior backend roles.
